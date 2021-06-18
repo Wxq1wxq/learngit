@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 beautiful
 heard
 goodtime
+分支管理测试
